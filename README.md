@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kazumayokota
 - 👀 I’m interested in ...　
-- 🌱 I’m currently learning ...　HTML/CSS,JavaScript,PHP 
+- 🌱 I’m currently learning ...　Python
  - 💞️ I’m looking to collaborate on ...
  
 - 📫 How to reach me ..evans.ark9@gmail.com
